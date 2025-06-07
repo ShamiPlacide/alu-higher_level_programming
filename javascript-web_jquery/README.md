@@ -1,3 +1,3 @@
-JQuery JavascriptDid javascript web query
+Did javascript web query
 
-Author: Gilbmura
+By Shami
