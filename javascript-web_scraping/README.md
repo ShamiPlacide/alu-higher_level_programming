@@ -1,3 +1,3 @@
-Did web scraping with javascript
+Web scraping with javascript
 
-Author Gilbmura.
+Author Shami.
